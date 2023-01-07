@@ -16,7 +16,7 @@ This repository contains history versions of NVIDIA vGPU drivers.
 
 ## Preview
 
-To get you a rough idea of what each zip is containing, here's the `tree` output of fully extracted 15.0 branch.  
+To get you a rough idea of what each zip contains, here's the `tree` output of fully extracted 15.0 branch.  
 
 https://github.com/justin-himself/NV-VGPU-History-Driver/blob/master/preview.txt
 
