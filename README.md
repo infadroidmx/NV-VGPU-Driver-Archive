@@ -1,5 +1,5 @@
 # NV-VGPU-Driver-KVM
-This repository contains all NVIDIA vGPU drivers.
+This repository contains history versions of NVIDIA vGPU drivers.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/justin-himself/NV-VGPU-History-Driver)
 
