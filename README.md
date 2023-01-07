@@ -1,7 +1,7 @@
-# NV-VGPU-Driver-Archive
+# NV-VGPU-Driver-Archive ![GitHub repo size](https://img.shields.io/github/repo-size/justin-himself/NV-VGPU-Driver-Archive)
 This repository contains history versions of NVIDIA vGPU drivers.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/justin-himself/NV-VGPU-Driver-Archive)
+
 
 | 13.0+                                                                      | 14.0 +                                                                     | 15.0 +                                                                     |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
