@@ -10,9 +10,8 @@ This repository contains history versions of NVIDIA vGPU drivers.
 | [13.2](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.2) | [14.2](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/14.2) |                                                                            |
 | [13.3](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.3) | [14.3](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/14.3) |                                                                            |
 | [13.4](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.4) | [14.4](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/14.4) |                                                                            |
-| [13.5](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.5) | [14.4](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/14.4) |                                                                            |
-| [13.6](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.6) | [14.4](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/14.4) |                                                                            |
-
+| [13.5](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.5) |                                                                            |                                                                            |
+| [13.6](https://github.com/justin-himself/NV-VGPU-History-Driver/tree/13.6) |                                                                            |                                                                            |
 
 
 
