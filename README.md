@@ -22,3 +22,10 @@ To download a driver, you can
 - download every splitted zip file manually, in your browser
 - use [this online tool](https://download-directory.github.io/) to download a folder
 - use [this chrome extension](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) to download a folder
+
+After downloading, you can use tools such as 7zip(Windows), Keka(Mac), or use the zip utility in unix-like OS.
+
+```bash
+zip -s- ./*.zip -O driver_full.zip
+unzip driver_full.zip #ignore any error msg
+```
