@@ -26,9 +26,27 @@ To download a driver, you can
 - use [this online tool](https://download-directory.github.io/) to download a folder
 - use [this chrome extension](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) to download a folder
 
-After downloading, you can use tools such as 7zip(Windows), Keka(Mac), or use the zip utility in unix-like OS.
+After downloading, you can use tools such as 7zip(Windows), Keka(Mac), or use the 7z utility in unix-like OS.
 
 ```bash
-zip -s 0 driver_name.zip -O driver_name_full.zip
-unzip driver_name_full.zip
+apt install p7zip-full
+7z x driver_name.zip
 ```
+
+To extract in batch, do
+
+```bash
+for d in */; do
+	f=${d::-1}
+	7z x $f/$f.zip -o$f/
+	rm $f/$f.z*
+done
+```
+
+## Preview
+
+To get you a rough idea of what each zip is containing, here's the `tree` output of fully extracted 15.0 branch.  
+
+https://github.com/justin-himself/NV-VGPU-History-Driver/blob/master/preview.txt
+
+
