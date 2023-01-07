@@ -29,6 +29,6 @@ To download a driver, you can
 After downloading, you can use tools such as 7zip(Windows), Keka(Mac), or use the zip utility in unix-like OS.
 
 ```bash
-zip -s- ./*.zip -O driver_full.zip
-unzip driver_full.zip #ignore any error msg
+zip -s 0 driver_name.zip -O driver_name_full.zip
+unzip driver_name_full.zip
 ```
