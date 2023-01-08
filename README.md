@@ -17,6 +17,14 @@ To get you a rough idea of what each zip contains, here's the `tree` output of f
 
 https://github.com/justin-himself/NV-VGPU-History-Driver/blob/master/preview.txt
 
+## About Windows Drivers
+
+NVIDIA uses the same driver for both windows host and guest machines.
+
+For example, if you search `527.41_grid_win10_win11_server2019_server2022_dch_64bit_international.exe` in [15.0](https://github.com/justin-himself/NV-VGPU-History-Driver/blob/master/preview.txt) branch, you will find multiple windows drivers scattered in different folders, and they are all same. 
+
+So if you are on a windows host, want to use the card directly, or you are passing through the whole card to a windows virtual machine, just use any windows driver in the branch.
+
 ## Source
 
 - NVIDIA Drivers - [NVIDIA Licensing - Software Downloads](https://ui.licensing.nvidia.com/software)
