@@ -30,12 +30,7 @@ To download a driver, you can
 - download every splitted zip file manually, in your browser
 - use [this online tool](https://download-directory.github.io/) to download a folder
 - use [this chrome extension](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) to download a folder
-- use [OzanCansel/download-github-folder](https://github.com/OzanCansel/download-github-folder):
-
-```bash
-wget https://raw.githubusercontent.com/OzanCansel/download-github-folder/master/dgf.sh /tmp
-bash /tmp/dgf.sh https://github.com/justin-himself/NV-VGPU-Driver-Archive/tree/15.0/NVIDIA-GRID-Linux-KVM-525.60.12-525.60.13-527.41
-```
+- use git sparse checkout
 
 
 After downloading, you can use tools such as 7zip(Windows), Keka(Mac), or use the 7z utility in unix-like OS.
